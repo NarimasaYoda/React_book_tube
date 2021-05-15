@@ -7,8 +7,6 @@ let original_url = "https://www.youtube.com/embed/lDK9QqIzhwk"
 
 const KEY = process.env.REACT_APP_X_RAPIDAPI_KEY;
 
-console.log(KEY,"key")
-
 const App_Tube = () => {
 
     // データを保持するために利用する。
